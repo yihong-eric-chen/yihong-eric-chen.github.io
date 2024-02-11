@@ -4,19 +4,12 @@ title: About
 permalink: about
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+Hello, my name is Eric Chen (陈羿泓), a junior at the [University of Delaware](https://lerner.udel.edu), majoring in Management Information Systems, Mathematics, and Data Science. I'm also enrolled as a JEI (Joint Educational Institute) student at the [SWUFE-UD Institute of Data Science](https://dids.swufe.edu.cn) in Chengdu, China.
 
-## Profile Image
+Currently, I serve as a teaching assistant for MISY330, Database Design and Implementation, and work as a research assistant supervised by Prof. [Tao Wang](https://gk.swufe.edu.cn/info/1083/1296.htm) at SWUFE. Additionally, I'm preparing to become an undergraduate research scholar supervised by Prof. [Harry Wang](http://harrywang.me) at UD.
 
-The following profile image is my first NFT avatar.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/279.png">
+In my role as a prompt engineer intern at [Takin.AI](https://takin.ai) and [HiddenArt.AI](https://hiddenart.ai), I concentrate on the development and enhancement of Generative Artificial Intelligence (GAI) systems. My previous tenure as an algorithm engineer intern at [China Telecom](http://www.ffcs.cn) (中国电信) enriched my experience in NLP and AI training.
 
-## References
+Beyond my academic and professional pursuits, I'm a UD Student Alumni Ambassador ([UDSAA](https://www.udel.edu/alumni-friends/connect/students/student-alumni-ambassadors/)) and the former president of the SWUFE Fujian Fellows Association, roles that have refined my leadership abilities and event coordination skills.
 
-I copied some references from [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) to show some markdown examples:
-
- - "The misidentification of Satoshi Nakamoto". theweek.com. 30 June 2015. Retrieved 22 July 2019.
- Kharif, Olga (23 April 2019). "John McAfee Vows to Unmask Crypto's Satoshi Nakamoto, Then Backs Off". Bloomberg.
- - "Who Is Satoshi Nakamoto, Inventor of Bitcoin? It Doesn't Matter". Fortune. Retrieved 22 July 2019.
- - Bearman, Sophie (27 October 2017). "Bitcoin's creator may be worth $6 billion — but people still don't know who it is". CNBC. Retrieved 22 July 2019.
- S., L. (2 November 2015). "Who is Satoshi Nakamoto?". The Economist explains. The Economist. Archived from the original on 21 August 2016. Retrieved 3 November 2015.
+In my leisure moments, I find joy in music and movies, having served as the principal horn player in the SWUFE Orchestra. I am also a fan of Chinese folk songs and traditional music, with [Gong Linna](http://www.gonglinna.com/index.html) being my favorite artist
