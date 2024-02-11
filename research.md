@@ -18,7 +18,7 @@ Econometrics, Machine Learning, Text Mining
 
 **Under Review:** [Online Learning Resource Management System Utilization and College Students’ Engagement at Zhongshan University](LRMS.md)
 
-**Working Paper:** What Motivates Internet Public Welfare Crowdfunding? An Empirical Study based on Image Theory
+**Working Paper:** [What Motivates Internet Public Welfare Crowdfunding? An Empirical Study based on Image Theory](research_projs/swcf.md)
 
 ### Publications
 
