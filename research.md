@@ -3,24 +3,24 @@ layout: page
 title: Research
 permalink: research
 ---
-# Research Topics
+### Research Topics
 
 - Prompt Engineering
 - Generative Artificial Inteligence
 - Fintech
 - Computer & Education
 
-# Research Methods
+### Research Methods
 
 Econometrics, Machine Learning, Text Mining
 
-# Research Projects
+### Research Projects
 
 **Under Review:** Online Learning Resource Management System Utilization and College Students’ Engagement at Zhongshan University
 
 **Working Paper:** What Motivates Internet Public Welfare Crowdfunding? An Empirical Study based on Image Theory
 
-# Publications
+### Publications
 
 **Conference Paper**
 
