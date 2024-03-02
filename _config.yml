@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Eric Chen
 author-bio: MIS Researcher · Prompt Engineer · Data Scientist  # change to false to hide
-author-image: IMG_4516.HEIC  # file must be in the /assets/img/ folder
+author-image: IMG_6557.PNG  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
