@@ -8,6 +8,7 @@ permalink: research
 - Prompt Engineering
 - Generative Artificial Inteligence
 - Fintech
+- Decision Making
 - Computer & Education
 
 ### Research Methods
