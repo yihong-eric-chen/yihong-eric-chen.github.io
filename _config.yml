@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Eric Chen
-author-bio: Junior student, majoring in Data Science and MIS  # change to false to hide
+author-bio: Mathematics · Data Science · Management Information Systems  # change to false to hide
 author-image: IMG_6555.PNG  # file must be in the /assets/img/ folder
 
 # navigation menu
