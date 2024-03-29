@@ -12,4 +12,4 @@ In my professional capacity, I serve on the teams of [Takin.AI](https://takin.ai
 
 Beyond my academic and professional pursuits, I'm a UD Student Alumni Ambassador ([UDSAA](https://www.udel.edu/alumni-friends/connect/students/student-alumni-ambassadors/)) and the former president of the SWUFE Fujian Fellows Association, roles that have refined my leadership abilities and event coordination skills.
 
-In my leisure moments, I find joy in music and movies, having served as the principal horn player in the SWUFE Orchestra. I am also a fan of Chinese folk songs and traditional music, with [Gong Linna](http://www.gonglinna.com/index.html) being my favorite artist
+In my leisure moments, I find joy in music and movies, having served as the principal horn player in the SWUFE Orchestra. I am also a fan of Chinese folk songs and traditional music.
