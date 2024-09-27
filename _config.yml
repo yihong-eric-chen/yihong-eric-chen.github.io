@@ -3,15 +3,15 @@ baseurl: "" # the name of your github repo
 url: "https://yh-eric-chan.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Eric Chen Personal Website"
-description: This is website for Eric Chen
+title: "Yihong(Eric) Chen Personal Website"
+description: This is website for Yihong Chen
 
 # color theme for links
 theme-color: pink # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Eric Chen
-author-bio: Rising Senior and Aspiring PhD Applicant # change to false to hide
+author: Yihong Chen
+author-bio: Senior Student in MIS & Math & Data Science # change to false to hide
 author-image: IMG_6557.jpeg  # file must be in the /assets/img/ folder
 
 # navigation menu
