@@ -10,6 +10,6 @@ Currently, I serve as a teaching assistant for MISY330, Database Design and Impl
 
 In my professional capacity, I serve on the teams of [Takin.AI](https://takin.ai) and [HiddenArt.AI](https://hiddenart.ai), focusing on the development and improvement of Generative Artificial Intelligence (GAI) systems. My previous tenure as an algorithm engineer intern at [China Telecom](http://www.ffcs.cn) enriched my experience in NLP and AI training.
 
-Beyond my academic and professional pursuits, I'm a UD Student Alumni Ambassador ([UDSAA](https://www.udel.edu/alumni-friends/connect/students/student-alumni-ambassadors/)) and the former president of the SWUFE Fujian Fellows Association, roles that have refined my leadership abilities and event coordination skills.
+Beyond my academic and professional pursuits, I'm a UD Student Alumni Ambassador ([UDSAA](https://www.udel.edu/alumni-friends/connect/students/student-alumni-ambassadors/)) and the former president of the SWUFE Fujian Fellows Association, roles that have refined my leadership abilities and event coordination skills. Please refer to my [CV](https://github.com/yh-eric-chan/yh-eric-chan.github.io/blob/main/assets/CV_Academic.pdf) for more details. 
 
 In my leisure moments, I find joy in music and movies, having served as the principal horn player in the SWUFE Orchestra. I am also a fan of Chinese folk songs and traditional music.
