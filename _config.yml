@@ -24,6 +24,8 @@ nav-menu:
   permalink: research
 - text: CV
   permalink: cv
+- text: Teaching
+  permalink: teaching
 - text: Blog
   permalink: blog
 
