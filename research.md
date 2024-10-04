@@ -55,9 +55,9 @@ Econometrics, Machine Learning, Text Mining
 
 - **Chen, Y.**, Dong, Y., Hu, D., and Wang, H. *"Enhancing Business Research Analytics: A Demonstrative Application of GraphRAG"*. Workshop on Information Systems and Technology, Bangkok, Thailand, 18-20 December, 2024.
 
-- **Chen, Y.H., Wang, T., Wang, S.J., Tang, Y.F., Yu, Q.Q., and Chen, P.J.**, *"The Influence Mechanism of Self-endorsement of We-media Short Videos"*. China Association for Information Systems (CNAIS), Shanghai, China, December 2-4, 2022.
+- **Chen, Y.H.**, Wang, T., Wang, S.J., Tang, Y.F., Yu, Q.Q., and Chen, P.J. *"The Influence Mechanism of Self-endorsement of We-media Short Videos"*. China Association for Information Systems (CNAIS), Shanghai, China, December 2-4, 2022.
 
-- **Wang, T. and Chen, Y.H.**, *The Impact of Information Disclosure in Equity Crowdfunding Project on Investors' Willingness to Invest*. China Association for Information Systems (CNAIS), Shanghai, China, December 2-4, 2022.
+- Wang, T. and **Chen, Y.H.** *"The Impact of Information Disclosure in Equity Crowdfunding Project on Investors' Willingness to Invest"*. China Association for Information Systems (CNAIS), Shanghai, China, December 2-4, 2022.
 
 
 
