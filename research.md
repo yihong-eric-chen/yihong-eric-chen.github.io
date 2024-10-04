@@ -4,12 +4,11 @@ title: Research
 permalink: research
 ---
 ### Research Topics
-
 - Large Language Model
 - Generative Artificial Inteligence
 - Financial Technology
 - Decision Making
-- Computer & Education
+- Cybersecurity
 
 ### Research Methods
 
@@ -18,7 +17,7 @@ Econometrics, Machine Learning, Text Mining
 ### Research Projects
 
 - **Can Large Language Models Simulate Human Behavior in Disaster Scenarios?**  
-  **Funding:** Resilient & Equity Smart City Lab, July 2024 - Present, $3,500
+  **Funding:** Resilient & Equity Smart City Lab, July 2024 - Present, $3,500<br>
   **Supervisor:** Prof. Shangjia Dong at UD  
   **Stage:** Data Analysis  
   **Description:** This project examines whether large language models (LLMs) can emulate human-like decision-making behavior in disaster scenarios by combining novel AI technology with widely accepted theoretical frameworks like the Protective Action Decision Model (PADM).  
@@ -29,16 +28,21 @@ Econometrics, Machine Learning, Text Mining
   **Supervisor:** Prof. Tao Wang at SWUFE  
   **Stage:** Data Collection  
   **Description:** This research investigates the mechanisms through which endorsement influences the behavior of users' adoption to digital avatars in online philanthropy scenarios.  
-  **Collaborators:** J. Chu, Y. Wang, D. Ma
+  **Collaborators:** J. Chu, Y. Wang, and D. Ma
 
 - **Leveraging Retrieval-Augmented Generation (RAG) and Supervised Fine-Tuning (SFT) for Business Research Analytics**  
   **Funding:** UD Undergraduate Research Scholar, June 2024 - Aug 2024, $4,000  
   **Supervisor:** Prof. Harry Wang at UD  
-  **Stage:** Work accepted by Workshop on Information Technology and Information Systems (WITS) 2024
+  **Stage:** Work accepted by Workshop on Information Technology and Information Systems (WITS) 2024<br>
   **Description:** This project aims to enhance business research analytics through advanced AI techniques. It also received the “Industry Scholar Award”, an additional $3,000 for conference attendance to present this project.
-
-
-
+  **Collaborators:** Y. Dong, and D. Hu
+  
+- **Influence Mechanism of Self-endorsement of We-media Short Video**  
+  **Funding:** National Undergraduate Training Program for Innovation, May 2022 - Dec 2023, ¥20,000  
+  **Supervisor:** Prof. Tao Wang at SWUFE  
+  **Stage:** Work presented at Annual Conference of China Association of Information Systems (CNAIS) 2022 <br>
+  **Description:** This research investigates the mechanisms through which self-endorsement influences users' adoption by employing Structural Equation Model (SEM).  
+  **Collaborators:** S. Wang, Y. Tang, Q. Yu, and P. Chen  
 
 
 ### Publication
