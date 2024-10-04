@@ -16,11 +16,12 @@ Econometrics, Machine Learning, Text Mining
 ### Human-AI Interaction
 
 - **Can Large Language Models Simulate Human Behavior in Disaster Scenarios?**  
-  **Funding:** Resilient & Equity Smart City Lab, July 2024 - Present, $3,500<br>
+  **Funding:** National Science Foundation REU Site, July 2024 - Present, $3,500<br>
   **Supervisor:** Prof. Shangjia Dong at UD  
   **Stage:** Data Analysis  
   **Description:** This project examines whether large language models (LLMs) can emulate human-like decision-making behavior in disaster scenarios by combining novel AI technology with widely accepted theoretical frameworks like the Protective Action Decision Model (PADM).  
   **Collaborator:** Xiao Qian
+  [DETAILS](/research/LLM_Evac.md)
 
 - **Leveraging Retrieval-Augmented Generation (RAG) and Supervised Fine-Tuning (SFT) for Business Research Analytics**  
   **Funding:** UD Undergraduate Research Scholar, June 2024 - Aug 2024, $4,000  
@@ -28,7 +29,8 @@ Econometrics, Machine Learning, Text Mining
   **Stage:** Accepted by Workshop on Information Technology and Information Systems (WITS) 2024<br>
   **Description:** This project aims to enhance business research analytics through advanced AI techniques. It also received the “Industry Scholar Award”, an additional $3,000 for conference attendance to present this project.
   **Collaborators:** Yimeng Dong, and Daning Hu
-
+  [DETAILS](https://github.com/yh-eric-chan/bizpub_graphrag)
+  
 ### Crowd Funding
 
   - **Endorsement Effect of Digital Avatars in Internet Philanthropy**  
@@ -44,7 +46,7 @@ Econometrics, Machine Learning, Text Mining
   **Stage:** Presented at Annual Conference of China Association of Information Systems (CNAIS) 2022 <br>
   **Description:** This research investigates the mechanisms through which self-endorsement influences users' adoption by employing Structural Equation Model (SEM).  
   **Collaborators:** Shujing Wang, Yifei Tang, Qiqi Yu, and Peijia Chen
-
+  [SLIDES](/research/cnais_2022_2.pptx)
 
 ### Publication
 
