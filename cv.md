@@ -4,8 +4,21 @@ title: Curriculum Vitae
 permalink: cv
 ---
 
-<div style="text-align: center;">
-    <iframe src="/assets/CV_Academic.pdf" width="100%" height="600px" style="border: none;">
-        Your browser does not support iframes.
-    </iframe>
-</div>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  iframe {
+    display: block;
+    width: 100%;
+    height: 100vh; /* Viewport height to fill the entire browser window */
+    border: none;
+  }
+</style>
+
+<iframe src="/assets/CV_Academic.pdf">
+    Your browser does not support iframes.
+</iframe>
