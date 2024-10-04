@@ -11,9 +11,9 @@ Humn-AI Interaction, Cybersecurity, Crowd Funding
 
 Econometrics, Machine Learning, Text Mining
 
-### Projects
+## Projects
 
-#### Human-AI Interaction
+### Human-AI Interaction
 
 - **Can Large Language Models Simulate Human Behavior in Disaster Scenarios?**  
   **Funding:** Resilient & Equity Smart City Lab, July 2024 - Present, $3,500<br>
@@ -29,7 +29,7 @@ Econometrics, Machine Learning, Text Mining
   **Description:** This project aims to enhance business research analytics through advanced AI techniques. It also received the “Industry Scholar Award”, an additional $3,000 for conference attendance to present this project.
   **Collaborators:** Yimeng Dong, and Daning Hu
 
-#### Crowd Funding
+### Crowd Funding
 
   - **Endorsement Effect of Digital Avatars in Internet Philanthropy**  
   **Funding:** National Undergraduate Training Program for Innovation, May 2024 - Present, ¥10,000  
@@ -48,7 +48,7 @@ Econometrics, Machine Learning, Text Mining
 
 ### Publication
 
-- **Guo, J., Chen, Y., Wang, T., & Zhang, Z.**, *Online Learning Resource Management System Utilization and College Students' Engagement at Zhongshan University*. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), 19(1), 1-20, 2024. [DOI](http://doi.org/10.4018/IJWLTT.349236)
+- **Guo, J., Chen, Y., Wang, T., & Zhang, Z.**, *Online Learning Resource Management System Utilization and College Students' Engagement at Zhongshan University*. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), 19(1), 1-20, 2024. [DOI](https://www.igi-global.com/article/online-learning-resource-management-system-utilization-and-college-students-engagement-at-zhongshan-university/349236)
 
 
 ### Presentations
