@@ -48,7 +48,7 @@ Econometrics, Machine Learning, Text Mining
 
 ### Publication
 
-- **Guo, J., Chen, Y., Wang, T., & Zhang, Z.**, *Online Learning Resource Management System Utilization and College Students' Engagement at Zhongshan University*. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), 19(1), 1-20, 2024. [DOI](https://www.igi-global.com/article/online-learning-resource-management-system-utilization-and-college-students-engagement-at-zhongshan-university/349236)
+- Guo, J., **Chen, Y.**, Wang, T., & Zhang, Z., *Online Learning Resource Management System Utilization and College Students' Engagement at Zhongshan University*. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), 19(1), 1-20, 2024. [DOI](https://www.igi-global.com/article/online-learning-resource-management-system-utilization-and-college-students-engagement-at-zhongshan-university/349236)
 
 
 ### Presentations
