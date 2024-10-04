@@ -10,6 +10,6 @@ I aspire to become a researcher and educator in a business school. My [research]
 
 In my professional experience, I have contributed to the development of Generative AI systems at [Takin.AI](https://takin.ai) and [HiddenArt.AI](https://hiddenart.ai). During my tenure as an algorithm engineer intern at [China Telecom](http://www.ffcs.cn), I gained hands-on experience in natural language processing (NLP) and AI model training.
 
-Outside of academics, I am a UD Student Alumni Ambassador ([UDSAA](https://www.udel.edu/alumni-friends/connect/students/student-alumni-ambassadors/)) and the former president of the SWUFE Fujian Fellows Association. These roles have helped me refine my leadership and event coordination skills. For more details, you can refer to my [CV](/cv.md).
+Outside of academics, I am a UD Student Alumni Ambassador ([UDSAA](https://www.udel.edu/alumni-friends/connect/students/student-alumni-ambassadors/)) and the former president of the SWUFE Fujian Fellows Association. These roles have helped me refine my leadership and event coordination skills. For more details, please refer to my [CV](/cv.md).
 
 In my free time, I enjoy music and movies. I have served as the principal horn player for the SWUFE Symphony Orchestra and am an avid fan of Chinese folk music and traditional songs.
