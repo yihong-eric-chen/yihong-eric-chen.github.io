@@ -20,7 +20,7 @@ Econometrics, Machine Learning, Text Mining
   **Supervisor:** Prof. Shangjia Dong at UD  
   **Stage:** Data Analysis  
   **Description:** This project examines whether large language models (LLMs) can emulate human-like decision-making behavior in disaster scenarios by combining novel AI technology with widely accepted theoretical frameworks like the Protective Action Decision Model (PADM).  
-  **Collaborator:** Xiao Qian
+  **Collaborator:** Xiao Qian<br>
   [DETAILS](/research/LLM_Evac.md)
 
 - **Leveraging Retrieval-Augmented Generation (RAG) and Supervised Fine-Tuning (SFT) for Business Research Analytics**  
@@ -28,8 +28,8 @@ Econometrics, Machine Learning, Text Mining
   **Supervisor:** Prof. Harry Wang at UD  
   **Stage:** Accepted by Workshop on Information Technology and Information Systems (WITS) 2024<br>
   **Description:** This project aims to enhance business research analytics through advanced AI techniques. It also received the “Industry Scholar Award”, an additional $3,000 for conference attendance to present this project.
-  **Collaborators:** Yimeng Dong, and Daning Hu
-  [DETAILS](https://github.com/yh-eric-chan/bizpub_graphrag)
+  **Collaborators:** Yimeng Dong, and Daning Hu<br>
+  [REPO](https://github.com/yh-eric-chan/bizpub_graphrag), [APP](https://huggingface.co/spaces/ericyhchen/bizpub_graphrag)
   
 ### Crowd Funding
 
@@ -45,7 +45,7 @@ Econometrics, Machine Learning, Text Mining
   **Supervisor:** Prof. Tao Wang at SWUFE  
   **Stage:** Presented at Annual Conference of China Association of Information Systems (CNAIS) 2022 <br>
   **Description:** This research investigates the mechanisms through which self-endorsement influences users' adoption by employing Structural Equation Model (SEM).  
-  **Collaborators:** Shujing Wang, Yifei Tang, Qiqi Yu, and Peijia Chen
+  **Collaborators:** Shujing Wang, Yifei Tang, Qiqi Yu, and Peijia Chen<br>
   [SLIDES](/research/cnais_2022_2.pptx)
 
 ### Publication
