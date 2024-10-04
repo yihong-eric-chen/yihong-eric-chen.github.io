@@ -3,13 +3,15 @@ layout: page
 title: Teaching
 permalink: teaching
 ---
-### MISY 667 - Introduction to Generative Artificial Intelligence 
+### Teaching Assistant - MISY 667 
+#### _Introduction to Generative Artificial Intelligence_
 - **Class Level:** MBA
 - **Class Size:** 30
 - **Instuctor:** Harry Wang
 - **Topics:** Large Language Model, AI-Agents, AI Security
 
-### MISY 330 - Data Base Design and Implementation 
+### Teaching Assistant - MISY 330
+#### _Database Design and Implementation_ 
 - **Class Level:** Undergraduate 
 - **Class Size:** 100
 - **Instuctor:** Leting Zhang
