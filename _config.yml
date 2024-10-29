@@ -12,7 +12,7 @@ theme-color: pink # indigo|yellow|pink|green|stone|
 # homepage information
 author: Yihong Chen
 author-bio: Student | Data Scientist | Researcher   # change to false to hide
-author-image: IMG_6557.jpeg  # file must be in the /assets/img/ folder
+author-image: IMG_6971 2.HEIC  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
