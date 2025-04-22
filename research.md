@@ -46,11 +46,6 @@ Econometrics, Machine Learning, Text Mining
   - **Chen, Y.H.**, Wang, T., Wang, S.J., Tang, Y.F., Yu, Q.Q., and Chen, P.J. *"The Influence Mechanism of Self-endorsement of We-media Short Videos"*. China Association for Information Systems (CNAIS), Shanghai, China, December 2-4, 2022.
 
 
-### Publication
-
-- Guo, J., **Chen, Y.**, Wang, T., & Zhang, Z., *Online Learning Resource Management System Utilization and College Students' Engagement at Zhongshan University*. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), 19(1), 1-20, 2024. [DOI](https://www.igi-global.com/article/online-learning-resource-management-system-utilization-and-college-students-engagement-at-zhongshan-university/349236)
-
-
 ### Other Presentations
 
 
