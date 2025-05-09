@@ -5,7 +5,7 @@ permalink: teaching
 ---
 ### Teaching Assistant - [MISY 670](https://catalog.udel.edu/preview_course_nopop.php?catoid=91&coid=586166)
 #### _Introduction to Generative Artificial Intelligence_
-- **Class Level:** MBA
+- **Class Level:** Graduate
 - **Class Size:** 30
 - **Instuctor:** Harry Wang
 <div style="display: flex; justify-content: space-between;">
