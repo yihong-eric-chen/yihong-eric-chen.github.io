@@ -22,6 +22,8 @@ Econometrics, Machine Learning, Text Mining
   **Description:** This project examines whether large language models (LLMs) can emulate human-like decision-making behavior in disaster scenarios by combining novel AI technology with widely accepted theoretical frameworks like the Protective Action Decision Model (PADM).  
   **Collaborator:** Xiao Qian<br>
   [DETAILS](/research/LLM_Evac.md)
+#### Presentation
+  - **Chen, Y.**, Qian, X., Dong, S. "Large Language Models Capture Risk Distributions, Not Individual Risk Perception in Hurricane Evacuation." International Conference on Urban Science and Intelligence (ICUSI), Bali, Indonesia, 22-24 August, 2025. (Accepted)
 
 - **Leveraging Retrieval-Augmented Generation (RAG) and Supervised Fine-Tuning (SFT) for Business Research Analytics**  
   **Funding:** UD Undergraduate Research Scholar, June 2024 - Aug 2024, $4,000  
